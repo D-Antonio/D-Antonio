@@ -6,15 +6,6 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me </h3>
-<p align="left">
-  <a href="https://www.facebook.com/hieu.hiihihaha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Sr.Periky/" height="30" width="40" />
-  </a>
-  <a href="mailto:sr.periky@gmail.com" target="blank">
-    <img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="mailto:hieutedam2k2@gmail.com" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -92,14 +83,3 @@
     </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrPeriky&show_icons=true&locale=en&layout=compact" alt="SrPeriky" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrPeriky&show_icons=true&locale=en" alt="SrPeriky" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrPeriky&" alt="SrPeriky" />
-</p>
