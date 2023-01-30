@@ -1,9 +1,7 @@
 <h1 align="center">I'm gamer <img src="https://komarev.com/ghpvc/?username=SrPeriky&label=views&color=blueviolet" alt="dachieu2k2" /> </h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrPeriky" alt="SrPeriky" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SrPeriky" alt="SrPeriky" />
 </p>
 
 
