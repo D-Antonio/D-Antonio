@@ -1,7 +1,13 @@
-<h1 align="center">I'm gamer <img src="https://komarev.com/ghpvc/?username=SrPeriky&label=views&color=blueviolet" alt="dachieu2k2" /> </h1>
+<h1 align="center">
+  <p align="center"> 
+   I'm gamer <br>
+    <img src="https://profile-counter.glitch.me/SrPeriky/count.svg" />
+  </p>
+  <!--img src="https://komarev.com/ghpvc/?username=SrPeriky&label=views&color=blueviolet" alt="dachieu2k2" / --> 
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SrPeriky" alt="SrPeriky" />
+  <img src="https://github-profile-trophy.vercel.app/?username=insolitum" alt="SrPeriky" />
 </p>
 
 
