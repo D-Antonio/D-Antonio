@@ -6,9 +6,9 @@
   <!--img src="https://komarev.com/ghpvc/?username=SrPeriky&label=views&color=blueviolet" alt="dachieu2k2" / --> 
 </h1>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=insolitum" alt="SrPeriky" />
-</p>
+<!--p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SrPeriky" alt="SrPeriky" />
+</p-->
 
 
 <h3 align="left">Languages and Tools:</h3>
